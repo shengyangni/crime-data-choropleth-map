@@ -9,7 +9,7 @@ library(leaflet)
 library(KernSmooth)
 library(maps)
 #GOOGLE API register
-#register_google(key = "AIzaSyDrIkkpX-fJCpZWLQWTXH4Ou0M434ridnw", write = TRUE)
+#register_google(key = "", write = TRUE)
 
 #data exploration
 crime<-read.csv("crime.csv")
